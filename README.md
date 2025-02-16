@@ -1,5 +1,6 @@
 # #VanLife
 ![Static Badge](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=next.js) ![Static Badge](https://img.shields.io/badge/React-252831?style=for-the-badge&logo=react&logoColor=61dbfb) ![Static Badge](https://img.shields.io/badge/TypeScript-3588de?style=for-the-badge&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/Tailwind-00c8f1?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Static Badge](https://img.shields.io/badge/Prisma-00405e?style=for-the-badge&logo=prisma)
+
 Next.js app where you can rent a van and publish your own van.
 
 ## Tech stack:
